@@ -28,3 +28,8 @@
     background-image: url('../img/icons/calendar.svg');
     margin-right: .5rem;
 }
+
+.experience li .period ul {
+    margin: 0;
+    padding-left: 1rem;
+}
