@@ -2,7 +2,7 @@
 
 O Projeto foi desenvolvido durante o a trilha JavaScript Developer na Digital Innovation One.
 
-[Portfólio](https://github.com/LipeFHS/portfolio)
+[Portfólio](https://lipefhs.github.io/portfolio/)
 
 
 ### Techs 
